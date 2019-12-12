@@ -13,7 +13,7 @@ Configuration
   <user username="admin" password="password" roles="manager-gui,manager-script" />
  ```
   
-2. Add in C:\Users\SomeUSER\.m2
+2. Add in C:\Users\SomeUSER\'.m2'
 
 ```
     <servers>
